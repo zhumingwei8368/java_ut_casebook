@@ -1,0 +1,1 @@
+create table tbl_jpa_user (id int not null, user_name varchar(255));
